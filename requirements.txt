@@ -8,6 +8,6 @@ PyPDF2==1.26.0
 pytz>=2016.10
 requests>=2.11.1
 SQLAlchemy>=0.8.4
-tornado>=4.1
+tornado>=6.4.2
 Wand>=0.4.4
 unidecode>=0.04.19
